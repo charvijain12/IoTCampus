@@ -15,11 +15,11 @@ The network layout in this exercise is more complex compared to previous lab exe
 
 
 ## Before Simulation
-![image](https://user-images.githubusercontent.com/93007427/224146088-bf8ec790-ede3-446e-a2d5-7c05f7b6c96a.png)
+![image](https://user-images.githubusercontent.com/97164074/235170468-a60b5612-f8d3-483e-a390-a4df1b4d34c8.png)
 
 
 ## After Simulation
-![image](https://user-images.githubusercontent.com/93007427/224146128-2bc4b131-751a-448b-b144-86911ed9f8b2.png)
+![image](https://user-images.githubusercontent.com/97164074/235170719-42469f35-e034-4247-814b-6971d89a868e.png)
 
 
 ## Contributing
