@@ -15,7 +15,16 @@ The network layout in this exercise is more complex compared to previous lab exe
 
 
 ## Before Simulation
-![image](https://user-images.githubusercontent.com/97164074/224149209-36aa4952-75ae-4f9c-8e2f-8a1d169af46f.png)
+![image](https://user-images.githubusercontent.com/93007427/224146088-bf8ec790-ede3-446e-a2d5-7c05f7b6c96a.png)
+
 
 ## After Simulation
-![image](https://user-images.githubusercontent.com/97164074/224149183-4bd59d8f-c55c-42f8-8e89-7abde3ea22aa.png)
+![image](https://user-images.githubusercontent.com/93007427/224146128-2bc4b131-751a-448b-b144-86911ed9f8b2.png)
+
+
+## Contributing
+If you have any suggestions or improvements for this simulation, feel free to contribute by creating a pull request or opening an issue.
+
+## License
+This project is licensed under the MIT License - see the [License](https://github.com/charvijain12/Smart-Campus-Design/blob/main/LICENSE) file for details.
+
