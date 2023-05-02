@@ -1,30 +1,42 @@
-## Smart Campus
-Smart campus is a more comprehensive IoT simulation compared to the smart homes, both network and IoT layout, are in fact more complex in order to show a deeper interaction between the IoT devices. Smart-Campus simulated a university campus where, along with traditional school and apartment networks, an IoT network allowed to connect different IoT devices spread across the campus premises. Examples of RFID access control management and intelligent sport field watering solution were included in the simulation. 
- 
+# Smart Campus Proposal to make Tech Park Smart
 
-## Network Layout
-The network layout in this exercise is more complex compared to previous lab exercises. This network topology includes 
-
-•	Backbone router network
-
-•	Traditional switch-based classroom wired network
-
-•	Wireless LAN for the apartment buildings
-
-•	Dedicated IoT network based also on switch
+## Electrical Energy Conservation
 
 
-## Before Simulation
-![image](https://user-images.githubusercontent.com/97164074/235170468-a60b5612-f8d3-483e-a390-a4df1b4d34c8.png)
+
+### Problem Statement
+The educational blocks in our institution consume a significant amount of energy, which is often wasted due to inefficient management. Appliances in these blocks operate on a set schedule, leading to them being switched on even when not needed, resulting in high electricity bills.
 
 
-## After Simulation
-![image](https://user-images.githubusercontent.com/97164074/235170719-42469f35-e034-4247-814b-6971d89a868e.png)
+
+### Objectives
+1. `Monitoring`: Conduct an analysis of the environment to understand electrical energy consumption patterns.
+
+2. `Intelligence-enabled electrical energy automation system`: Develop an IoT-driven building towards an energy-automated environment.
+
+3. `Electric energy consumption prediction`: Implement prediction capabilities in smart buildings to estimate electric energy consumption for the near future.
+
+These objectives aim to generate and supply the required amount of energy needed to meet the demands of the electric loads.
 
 
-## Contributing
-If you have any suggestions or improvements for this simulation, feel free to contribute by creating a pull request or opening an issue.
 
-## License
+### Technical Aspects
+
+![image](https://user-images.githubusercontent.com/93007427/231525078-42ea7ffe-fff3-4f75-8a91-a3afa020c653.png)
+
+The technical aspects involve implementing an IoT-driven electrical energy automation system that monitors and regulates energy consumption. The proposed system uses sensors to gather real-time data on energy consumption patterns and processes the information through machine learning algorithms to provide predictive insights into energy consumption. The system also includes automation controls to enable efficient energy use in educational blocks.
+
+
+
+### Usage
+To access the case study, simply download or open the PDF file located in the repository.
+
+
+
+### Contributing
+As this repository only contains a single PDF file, there is no scope for external contributions.
+
+
+### License
 This project is licensed under the MIT License - see the [License](https://github.com/charvijain12/Smart-Campus-Design/blob/main/LICENSE) file for details.
 
