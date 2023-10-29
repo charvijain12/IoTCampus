@@ -1,4 +1,4 @@
-# Smart Campus Proposal to make Tech Park Smart
+# Smart Campus Design
 
 ## Electrical Energy Conservation
 
