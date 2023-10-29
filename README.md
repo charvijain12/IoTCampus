@@ -14,14 +14,6 @@ The network layout in this exercise is more complex compared to previous lab exe
 •	Dedicated IoT network based also on switch
 
 
-## Before Simulation
-![image](https://user-images.githubusercontent.com/93007427/224146088-bf8ec790-ede3-446e-a2d5-7c05f7b6c96a.png)
-
-
-## After Simulation
-![image](https://user-images.githubusercontent.com/93007427/224146128-2bc4b131-751a-448b-b144-86911ed9f8b2.png)
-
-
 ## Usage
 To use the Smart Campus simulation in Cisco Packet Tracer, follow these steps:
 
