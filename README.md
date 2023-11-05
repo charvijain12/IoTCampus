@@ -12,10 +12,12 @@ This exercise features a complex network layout, including:
 - Dedicated IoT network also based on a switch
 
 ## Before Simulation
-![Before Simulation](https://user-images.githubusercontent.com/93007427/224146088-bf8ec790-ede3-446e-a2d5-7c05f7b6c96a.png)
+![Before Simulation](https://github.com/charvijain12/IoTCampus/assets/97164074/c46cea6b-8495-4068-a864-8ca5ace8fa6c)
+
 
 ## After Simulation
-![After Simulation](https://user-images.githubusercontent.com/93007427/224146128-2bc4b131-751a-448b-b144-86911ed9f8b2.png)
+![After Simulation](https://github.com/charvijain12/IoTCampus/assets/97164074/1e13743a-a95e-4d89-b0d2-7a84e1e46e55)
+
 
 ## Usage 
 
