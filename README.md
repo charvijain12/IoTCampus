@@ -37,8 +37,8 @@ To use the Smart Campus simulation in Cisco Packet Tracer, follow these steps:
 
 To monitor and run the simulation for IoT devices within: Cisco Packet Tracer -> IoT Server -> IoT Monitor, please use the following credentials:
 
-- **Username**: shaurya
-- **Password**: shaurya
+- **Username**: charvi
+- **Password**: charvi
 
 ## Contributing 
 
