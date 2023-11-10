@@ -1,6 +1,6 @@
 # IoTCampus: Cisco Packet Tracer 
 
-**IoTCampus is a more comprehensive IoT simulation compared to smart homes, with a more complex network and IoT layout. It aims to demonstrate deeper interactions between IoT devices. The Smart Campus simulation simulates a university campus, incorporating traditional school and apartment networks and an IoT network to connect various IoT devices across the campus. It includes examples of RFID access control management and an intelligent sport field watering solution.**
+**IoTCampus is a more comprehensive IoT simulation compared to smart homes, with a more complex network and IoT layout. It aims to demonstrate deeper interactions between IoT devices. IoTCampus simulation simulates a university campus, incorporating traditional school and apartment networks and an IoT network to connect various IoT devices across the campus. It includes examples of RFID access control management and an intelligent sport field watering solution.**
 
 ## Network Layout 
 
